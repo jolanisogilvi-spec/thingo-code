@@ -1,0 +1,7 @@
+{
+  "name": "agent-canvas",
+  "productName": "Thingo Code",
+  "version": "1.0.0",
+  "private": true,
+  "main": "main.mjs"
+}
